@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elkharoubimed-beep.github.io/mohamed-elkharoubi-site/sitemap.xml
